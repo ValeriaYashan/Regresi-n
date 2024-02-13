@@ -1,2 +1,25 @@
-# Regresi-n
-Modelos de regresión
+# Modelos de regresión
+
+Regresión lineal (LinearRegression)
+Regresión de Ridge (Ridge)
+Regresión de Lasso (Lasso)
+Regresión ElasticNet (ElasticNet)
+Regresión de Bosques Aleatorios (RandomForestRegressor)
+Regresión de Vectores de Soporte (SVR)
+Regresión de Gradiente Descendente Estocástico (SGDRegressor)
+Regresión de Máquinas de Soporte Vectorial con Núcleo Gaussiano (KernelRidge)
+Regresión de Vecinos Más Cercanos (KNeighborsRegressor)
+Regresión de AdaBoost (AdaBoostRegressor)
+Regresión de Bosques Extremadamente Aleatorios (ExtraTreesRegressor)
+#BIBLIOTECAS
+scikit-learn (sklearn)
+NumPy (numpy)
+pandas (pandas)
+matplotlib (matplotlib.pyplot)
+seaborn (seaborn)
+XGBoost (xgboost)
+LightGBM (lightgbm)
+CatBoost (catboost)
+TensorFlow (tensorflow)
+Keras (keras)
+statsmodels (statsmodels)
